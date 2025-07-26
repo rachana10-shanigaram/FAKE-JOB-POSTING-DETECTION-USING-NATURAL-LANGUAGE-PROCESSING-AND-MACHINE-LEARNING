@@ -1,0 +1,11 @@
+Fraudulent job post prediction:
+
+Algorithms: Random Forest Classifier
+
+Accuracy score: 0.9784
+
+Text processing Prediction:
+
+Algorithms: K-Neighbors Classifier
+
+Accuracy score: 0.9502
